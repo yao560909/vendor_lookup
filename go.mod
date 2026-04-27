@@ -1,4 +1,4 @@
-module vendor_lookup
+module github.com/yao560909/vendor_lookup
 
 go 1.23.0
 
