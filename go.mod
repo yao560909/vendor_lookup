@@ -1,8 +1,11 @@
 module github.com/yao560909/vendor_lookup
 
-go 1.23.0
+go 1.23.5
 
-require github.com/wailsapp/wails/v2 v2.12.0
+require (
+	github.com/wailsapp/wails/v2 v2.12.0
+	github.com/yao560909/go-oui v1.0.0
+)
 
 require (
 	git.sr.ht/~jackmordaunt/go-toast/v2 v2.0.3 // indirect
