@@ -4,7 +4,7 @@ go 1.23.5
 
 require (
 	github.com/wailsapp/wails/v2 v2.12.0
-	github.com/yao560909/go-oui v1.0.0
+	github.com/yao560909/go-oui v1.0.1
 )
 
 require (
